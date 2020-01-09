@@ -1,0 +1,6 @@
+
+.DS_Store
+.vscode/settings.json
+data_loader/.ipynb_checkpoints/Dataloader-checkpoint.py
+config/.ipynb_checkpoints/train-checkpoint.yml
+trainer/.ipynb_checkpoints/trainer-checkpoint.py
