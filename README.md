@@ -29,3 +29,5 @@ python ./utils/util.py
 ```shell
 python train.py -opt ./option/train.yml
 ```
+
+The repository model code draws on [DANet](https://github.com/naplab/DANet "DANet") from naplab. It is found through experiments that the loss value cannot be decreased, and I have limited ability and have not identified the cause of the problem. Therefore, only training codes are released for reference only.
