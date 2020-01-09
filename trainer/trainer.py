@@ -193,7 +193,7 @@ class Trainer(object):
         #plt.xticks(l, lx)
         plt.ylabel('loss')
         plt.xlabel('epoch')
-        plt.savefig('conv_tasnet_loss.png')
+        plt.savefig('loss.png')
 
     def save_checkpoint(self, epoch, best=True):
         '''
